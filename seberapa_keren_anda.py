@@ -6,7 +6,12 @@ while True:
     print("Tes seberapa kerenkah anda\n")
     nama = input("Masukkan nama anda = ")
     persentase = random.choice(persen)
+    
+    if nama = "wiko":
+        persentase = "1000%"
+    
     print(f"\nPersentase keren anda adalah {persentase}!")
+    
     if persentase == "-1000%":
         print(f"Anda/{nama} sangat sangat tidak keren.")
     elif persentase == "0%":
