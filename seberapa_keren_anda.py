@@ -9,6 +9,10 @@ while True:
     
     if nama = "wiko":
         persentase = "1000%"
+    if nama = "clara":
+        persentase = "1000%"
+    if nama = "jesslyn":
+        persentase = "-1000%"
     
     print(f"\nPersentase keren anda adalah {persentase}!")
     
