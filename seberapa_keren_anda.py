@@ -33,7 +33,7 @@ while True:
     elif persentase == "1000%":
         print(f"Anda/{nama} sangat keren!")
     elif persentase == "1000000000%":
-        print(f"Anda/{nama} Terlalu OP, persennya kebanyakan woi")
+        print("kamu manis, tapi masih lebih manis ... haha")
 
     if nama in khusus:
         print(f"{nama} itu tolol anak asu awkowkwowk")
